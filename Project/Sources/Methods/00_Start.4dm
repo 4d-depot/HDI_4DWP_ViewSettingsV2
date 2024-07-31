@@ -22,13 +22,13 @@ Case of
 		$options:=New object:C1471
 		
 		$options.title:=""
-		$options.title:=$options.title+"manage tables with empty datasources"  //+"\n"
+		$options.title:=$options.title+"manage vue properties?"  //+"\n"
 		//$options.title:=$options.title+"tables in  documents?"
 		
 		$options.blog:="blog.4d.com"
 		$options.info:="4D Write Pro feature"  //ex : "4D View Pro feature"
 		
-		$options.minimumVersion:="2060"  // 2000 means 20.0   2060 means 20R6, 2001 means 20.1 (do not use !)
+		$options.minimumVersion:="2070"  // 2000 means 20.0   2060 means 20R6, 2001 means 20.1 (do not use !)
 		
 		$options.license:=4D Write license:K44:2  // IF ANY NEEDED
 		
